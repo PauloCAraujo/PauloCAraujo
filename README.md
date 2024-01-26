@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Paulo Lucas</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulocaraujo&label=Profile% 20views&color=0e75b6&style=flat" alt="paulocaraujo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PauloCAraujo&label=Profile% 20views&color=0e75b6&style=flat" alt="paulocaraujo" /> </p>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
